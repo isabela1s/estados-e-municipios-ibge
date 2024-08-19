@@ -1,28 +1,28 @@
-COD,NOME,SIGLA
-35,São Paulo, SP
-41,Paraná, PR
-42,Santa Catarina, SC
-43,Rio Grande do Sul, RS
-50,Mato Grosso do Sul, MS
-11,Rondônia, RO
-12,Acre, AC
-13,Amazonas, AM
-14,Roraima, RR
-15,Pará, PA
-16,Amapá, AP
-17,Tocantins, TO
-21,Maranhão, MA
-24,Rio Grande do Norte, RN
-25,Paraíba, PB
-26,Pernambuco, PE
-27,Alagoas, AL
-28,Sergipe, SE
-29,Bahia, BA
-31,Minas Gerais, MG
-33,Rio de Janeiro, RJ
-51,Mato Grosso, MT
-52,Goiás, GO
-53,Distrito Federal, DF
-22,Piauí, PI
-23,Ceará, CE
-32,Espírito Santo, ES
+label,value,true/false
+São Paulo,35,true
+Paraná,41,false
+Santa Catarina,42,false
+Rio Grande do Sul,43,false
+Mato Grosso do Sul,50,false
+Rondônia,11,false
+Acre,12,false
+Amazonas,13,false
+Roraima,14,false
+Pará,15,false
+Amapá,16,false
+Tocantins,17,false
+Maranhão,21,false
+Rio Grande do Norte,24,false
+Paraíba,25,false
+Pernambuco,26,false
+Alagoas,27,false
+Sergipe,28,false
+Bahia,29,false
+Minas Gerais,31,false
+Rio de Janeiro,33,false
+Mato Grosso,51,false
+Goiás,52,false
+Distrito Federal,53,false
+Piauí,22,false
+Ceará,23,false
+Espírito Santo,32,false
